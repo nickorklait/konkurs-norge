@@ -1,0 +1,42 @@
+{
+  "brand": {
+    "name": "Konkurs-Norge",
+    "tagline": "Konkursene i Norge, hver morgen",
+    "hashtags": ["#konkurs", "#næringsliv", "#økonomi", "#norge", "#bedrift", "#gründer", "#regnskap", "#bransje"]
+  },
+  "fylker": [
+    { "nummer": "03", "navn": "Oslo" },
+    { "nummer": "11", "navn": "Rogaland" },
+    { "nummer": "15", "navn": "Møre og Romsdal" },
+    { "nummer": "18", "navn": "Nordland" },
+    { "nummer": "31", "navn": "Østfold" },
+    { "nummer": "32", "navn": "Akershus" },
+    { "nummer": "33", "navn": "Buskerud" },
+    { "nummer": "34", "navn": "Innlandet" },
+    { "nummer": "39", "navn": "Vestfold" },
+    { "nummer": "40", "navn": "Telemark" },
+    { "nummer": "42", "navn": "Agder" },
+    { "nummer": "46", "navn": "Vestland" },
+    { "nummer": "50", "navn": "Trøndelag" },
+    { "nummer": "55", "navn": "Troms" },
+    { "nummer": "56", "navn": "Finnmark" }
+  ],
+  "source": {
+    "brreg": "Enhetsregisteret, Brønnøysundregistrene (NLOD)",
+    "ssb": "Folketall fra SSB (CC BY 4.0)",
+    "short": "Kilde: Brønnøysundregistrene og SSB",
+    "userAgent": "konkurs-norge-poc/0.1 (contact: nick.rios.haugen@orkla.no)"
+  },
+  "colors": {
+    "surface": "#1a1416",
+    "panel": "#271e21",
+    "line": "#3b2f33",
+    "text": "#ffffff",
+    "muted": "#bfaeb3",
+    "accent": "#ff6b5b",
+    "up": "#ff6b5b",
+    "down": "#5ec29a",
+    "normal": "#6e5f64"
+  },
+  "sponsor": { "label": "Sponset av", "text": "Din bedrift her" }
+}
