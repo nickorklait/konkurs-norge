@@ -6,6 +6,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { InstagramClient, InstagramError } from '../publish/instagram.ts';
+import { readProfile, type Profile } from '../publish/profile.ts';
 import { loadCredentials, readPublished } from '../publish/state.ts';
 import { STATE_DIR } from '../publish/state.ts';
 
@@ -13,6 +14,8 @@ interface Insights {
   updatedAt?: string;
   error?: string;
   username?: string;
+  /** Is the profile set up (picture, bio) and does it follow anyone: the growth report's checklist. */
+  profile?: Profile;
   /** One point per Oslo day. */
   followers: { date: string; count: number }[];
   /** Per publication key. */
@@ -39,6 +42,7 @@ try {
   const { followers } = await ig.accountStats();
   const today = new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Oslo' }).format(new Date());
   insights.followers = [...insights.followers.filter((p) => p.date !== today), { date: today, count: followers }].sort((a, b) => a.date.localeCompare(b.date));
+  insights.profile = (await readProfile(creds.token)) ?? insights.profile;
 
   // Feed posts for 30 days (numbers keep growing), stories for 24 hours (Instagram drops them after that).
   let readCount = 0;
