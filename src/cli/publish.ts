@@ -133,7 +133,8 @@ async function reel(u: Unit, folder: string, all: Unit[]): Promise<void> {
   if (!caption) return;
   try {
     const file = `${base.replace(/[^\w-]/g, '_')}.mp4`;
-    makeReel(u.images.map((img) => path.join(paths.output, folder, img)), path.join(runDir, file));
+    // The last seconds ask people to follow: the Reel is shown to people who do not follow yet.
+    makeReel(u.images.map((img) => path.join(paths.output, folder, img)), path.join(runDir, file), { endText: `Følg @${me.username} for mer`, fontDir: paths.fonts });
     const id = await ig.publishReel(host.url(file), caption);
     const permalink = await ig.permalink(id).catch(() => null);
     recordPublished(key, { publishedAt: new Date().toISOString(), kind: 'reel', mediaIds: [id], permalink });

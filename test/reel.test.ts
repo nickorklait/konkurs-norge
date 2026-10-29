@@ -5,7 +5,8 @@ import os from 'node:os';
 import path from 'node:path';
 import { Resvg } from '@resvg/resvg-js';
 import { InstagramClient } from '../src/publish/instagram.ts';
-import { makeReel, secondsPer } from '../src/publish/reel.ts';
+import { durations, FADE, makeReel, reelSeconds } from '../src/publish/reel.ts';
+import { paths } from '../src/config.ts';
 
 test('a Reel is a REELS container with the video URL and caption, kept out of the grid, then published', async () => {
   const calls: { path: string; params: Record<string, string> }[] = [];
@@ -28,9 +29,10 @@ test('a Reel is a REELS container with the video URL and caption, kept out of th
   assert.equal(calls.at(-1)!.params.creation_id, 'c1');
 });
 
-test('the video: 9:16 MP4 from the story images, 3.5 s each (7 s for one)', () => {
-  assert.equal(secondsPer(1), 7);
-  assert.equal(secondsPer(6), 3.5);
+test('the video: 9:16 MP4 from the story images, moving and cross-faded, a short first image, and a follow line', () => {
+  assert.deepEqual(durations(1), [6]);
+  assert.deepEqual(durations(3), [2.5, 3, 3]);
+  assert.equal(reelSeconds(3), 2.5 + 3 + 3 - 2 * FADE);
   const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'reel-'));
   const pngs = ['#0c1b2e', '#f5c400'].map((fill, i) => {
     const file = path.join(dir, `${i}.png`);
@@ -38,7 +40,7 @@ test('the video: 9:16 MP4 from the story images, 3.5 s each (7 s for one)', () =
     return file;
   });
   const out = path.join(dir, 'reel.mp4');
-  makeReel(pngs, out);
+  makeReel(pngs, out, { endText: 'Følg @konto for mer: 50 % 100', fontDir: paths.fonts });
   const head = fs.readFileSync(out).subarray(4, 8).toString('latin1');
   assert.equal(head, 'ftyp');
   fs.rmSync(dir, { recursive: true, force: true });
