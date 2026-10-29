@@ -42,5 +42,6 @@
     }
   },
   "username": "konkursnorge",
-  "updatedAt": "2026-10-29T11:05:12.551Z"
+  "updatedAt": "2026-10-29T16:19:08.160Z",
+  "error": "Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons."
 }
