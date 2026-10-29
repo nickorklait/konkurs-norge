@@ -1,0 +1,46 @@
+{
+  "followers": [
+    {
+      "date": "2026-10-29",
+      "count": 0
+    }
+  ],
+  "media": {
+    "2026-10-29-feed": {
+      "mediaId": "18127739437915390",
+      "kind": "feed",
+      "fetchedAt": "2026-10-29T11:05:11.583Z",
+      "publishedAt": "2026-10-29T11:04:10.251Z",
+      "permalink": "https://www.instagram.com/p/DfE21a4kXX3/",
+      "reach": 0,
+      "likes": 0,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0
+    },
+    "2026-10-29-story": {
+      "mediaId": "18093753866668072",
+      "kind": "story",
+      "fetchedAt": "2026-10-29T11:05:12.283Z",
+      "publishedAt": "2026-10-29T11:04:31.277Z",
+      "permalink": null,
+      "reach": 0,
+      "replies": 0,
+      "shares": 0
+    },
+    "2026-10-29-reel": {
+      "mediaId": "17903079633378641",
+      "kind": "reel",
+      "fetchedAt": "2026-10-29T11:05:12.551Z",
+      "publishedAt": "2026-10-29T11:05:10.210Z",
+      "permalink": "https://www.instagram.com/reel/DfE25vXgeyL/",
+      "reach": 0,
+      "likes": 0,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0
+    }
+  },
+  "username": "konkursnorge",
+  "updatedAt": "2026-10-29T11:05:12.551Z"
+}

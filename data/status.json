@@ -1,11 +1,21 @@
 {
   "generate": {
-    "at": "2026-10-28T21:01:56.504Z",
-    "date": "2026-10-28",
+    "at": "2026-10-29T11:03:40.967Z",
+    "date": "2026-10-29",
     "total": 18,
-    "diff": -2,
+    "diff": 7,
     "passed": 2,
     "errors": [],
     "warnings": []
+  },
+  "publish": {
+    "at": "2026-10-29T11:05:10.211Z",
+    "paused": false,
+    "published": [
+      "2026-10-29-feed",
+      "2026-10-29-story",
+      "2026-10-29-reel"
+    ],
+    "failed": []
   }
 }
