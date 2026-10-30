@@ -3,13 +3,17 @@
     {
       "date": "2026-10-29",
       "count": 0
+    },
+    {
+      "date": "2026-10-30",
+      "count": 3
     }
   ],
   "media": {
     "2026-10-29-feed": {
       "mediaId": "18127739437915390",
       "kind": "feed",
-      "fetchedAt": "2026-10-29T16:52:13.572Z",
+      "fetchedAt": "2026-10-30T06:51:31.499Z",
       "publishedAt": "2026-10-29T11:04:10.251Z",
       "permalink": "https://www.instagram.com/p/DfE21a4kXX3/",
       "reach": 0,
@@ -21,7 +25,7 @@
     "2026-10-29-story": {
       "mediaId": "18093753866668072",
       "kind": "story",
-      "fetchedAt": "2026-10-29T16:52:13.850Z",
+      "fetchedAt": "2026-10-30T06:51:31.910Z",
       "publishedAt": "2026-10-29T11:04:31.277Z",
       "permalink": null,
       "reach": 0,
@@ -31,10 +35,10 @@
     "2026-10-29-reel": {
       "mediaId": "17903079633378641",
       "kind": "reel",
-      "fetchedAt": "2026-10-29T16:52:14.244Z",
+      "fetchedAt": "2026-10-30T06:51:32.221Z",
       "publishedAt": "2026-10-29T11:05:10.210Z",
       "permalink": "https://www.instagram.com/reel/DfE25vXgeyL/",
-      "reach": 2,
+      "reach": 4,
       "likes": 0,
       "comments": 0,
       "saved": 0,
@@ -42,15 +46,15 @@
     }
   },
   "username": "konkursnorge",
-  "updatedAt": "2026-10-29T16:52:14.244Z",
+  "updatedAt": "2026-10-30T06:51:32.222Z",
   "profile": {
     "name": "Konkurs-Norge",
     "bio": 121,
     "picture": true,
     "website": false,
     "follows": 0,
-    "followers": 0,
+    "followers": 3,
     "media": 1,
-    "checkedAt": "2026-10-29T16:52:13.194Z"
+    "checkedAt": "2026-10-30T06:51:31.008Z"
   }
 }
