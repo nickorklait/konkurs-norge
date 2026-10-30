@@ -13,10 +13,10 @@
     "2026-10-29-feed": {
       "mediaId": "18127739437915390",
       "kind": "feed",
-      "fetchedAt": "2026-10-30T07:12:07.713Z",
+      "fetchedAt": "2026-10-30T08:11:13.652Z",
       "publishedAt": "2026-10-29T11:04:10.251Z",
       "permalink": "https://www.instagram.com/p/DfE21a4kXX3/",
-      "reach": 0,
+      "reach": 1,
       "likes": 0,
       "comments": 0,
       "saved": 0,
@@ -25,7 +25,7 @@
     "2026-10-29-story": {
       "mediaId": "18093753866668072",
       "kind": "story",
-      "fetchedAt": "2026-10-30T07:12:07.948Z",
+      "fetchedAt": "2026-10-30T08:11:14.029Z",
       "publishedAt": "2026-10-29T11:04:31.277Z",
       "permalink": null,
       "reach": 0,
@@ -35,7 +35,7 @@
     "2026-10-29-reel": {
       "mediaId": "17903079633378641",
       "kind": "reel",
-      "fetchedAt": "2026-10-30T07:12:08.325Z",
+      "fetchedAt": "2026-10-30T08:11:14.292Z",
       "publishedAt": "2026-10-29T11:05:10.210Z",
       "permalink": "https://www.instagram.com/reel/DfE25vXgeyL/",
       "reach": 4,
@@ -47,7 +47,7 @@
     "2026-10-30-feed": {
       "mediaId": "18100988177384159",
       "kind": "feed",
-      "fetchedAt": "2026-10-30T07:12:08.571Z",
+      "fetchedAt": "2026-10-30T08:11:14.597Z",
       "publishedAt": "2026-10-30T07:11:45.458Z",
       "permalink": "https://www.instagram.com/p/DfHBBhzlSEi/",
       "reach": 0,
@@ -59,7 +59,7 @@
     "2026-10-30-story": {
       "mediaId": "18079408805424396",
       "kind": "story",
-      "fetchedAt": "2026-10-30T07:12:08.889Z",
+      "fetchedAt": "2026-10-30T08:11:14.838Z",
       "publishedAt": "2026-10-30T07:12:06.471Z",
       "permalink": null,
       "reach": 0,
@@ -68,7 +68,7 @@
     }
   },
   "username": "konkursnorge",
-  "updatedAt": "2026-10-30T07:12:08.889Z",
+  "updatedAt": "2026-10-30T08:11:14.838Z",
   "profile": {
     "name": "Konkurs-Norge",
     "bio": 121,
@@ -77,6 +77,6 @@
     "follows": 0,
     "followers": 4,
     "media": 2,
-    "checkedAt": "2026-10-30T07:12:07.475Z"
+    "checkedAt": "2026-10-30T08:11:13.248Z"
   }
 }
