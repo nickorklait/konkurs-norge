@@ -17,7 +17,7 @@
     "2026-10-29-feed": {
       "mediaId": "18127739437915390",
       "kind": "feed",
-      "fetchedAt": "2026-10-31T06:51:40.181Z",
+      "fetchedAt": "2026-10-31T07:12:19.866Z",
       "publishedAt": "2026-10-29T11:04:10.251Z",
       "permalink": "https://www.instagram.com/p/DfE21a4kXX3/",
       "reach": 1,
@@ -39,7 +39,7 @@
     "2026-10-29-reel": {
       "mediaId": "17903079633378641",
       "kind": "reel",
-      "fetchedAt": "2026-10-31T06:51:40.463Z",
+      "fetchedAt": "2026-10-31T07:12:20.194Z",
       "publishedAt": "2026-10-29T11:05:10.210Z",
       "permalink": "https://www.instagram.com/reel/DfE25vXgeyL/",
       "reach": 5,
@@ -51,7 +51,7 @@
     "2026-10-30-feed": {
       "mediaId": "18100988177384159",
       "kind": "feed",
-      "fetchedAt": "2026-10-31T06:51:40.723Z",
+      "fetchedAt": "2026-10-31T07:12:20.440Z",
       "publishedAt": "2026-10-30T07:11:45.458Z",
       "permalink": "https://www.instagram.com/p/DfHBBhzlSEi/",
       "reach": 2,
@@ -69,10 +69,32 @@
       "reach": 0,
       "replies": 0,
       "shares": 0
+    },
+    "2026-10-31-feed": {
+      "mediaId": "18453622666130684",
+      "kind": "feed",
+      "fetchedAt": "2026-10-31T07:12:20.834Z",
+      "publishedAt": "2026-10-31T07:11:46.394Z",
+      "permalink": "https://www.instagram.com/p/DfJl0gcFTwe/",
+      "reach": 0,
+      "likes": 0,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0
+    },
+    "2026-10-31-story": {
+      "mediaId": "18648118090024284",
+      "kind": "story",
+      "fetchedAt": "2026-10-31T07:12:21.239Z",
+      "publishedAt": "2026-10-31T07:12:18.560Z",
+      "permalink": null,
+      "reach": 0,
+      "replies": 0,
+      "shares": 0
     }
   },
   "username": "konkursnorge",
-  "updatedAt": "2026-10-31T06:51:40.974Z",
+  "updatedAt": "2026-10-31T07:12:21.239Z",
   "profile": {
     "name": "Konkurs-Norge",
     "bio": 121,
@@ -80,7 +102,7 @@
     "website": false,
     "follows": 6,
     "followers": 5,
-    "media": 2,
-    "checkedAt": "2026-10-31T06:51:39.836Z"
+    "media": 3,
+    "checkedAt": "2026-10-31T07:12:19.552Z"
   }
 }
