@@ -17,7 +17,7 @@
     "2026-10-29-feed": {
       "mediaId": "18127739437915390",
       "kind": "feed",
-      "fetchedAt": "2026-10-31T08:11:20.633Z",
+      "fetchedAt": "2026-10-31T13:46:11.111Z",
       "publishedAt": "2026-10-29T11:04:10.251Z",
       "permalink": "https://www.instagram.com/p/DfE21a4kXX3/",
       "reach": 1,
@@ -39,7 +39,7 @@
     "2026-10-29-reel": {
       "mediaId": "17903079633378641",
       "kind": "reel",
-      "fetchedAt": "2026-10-31T08:11:20.853Z",
+      "fetchedAt": "2026-10-31T13:46:11.560Z",
       "publishedAt": "2026-10-29T11:05:10.210Z",
       "permalink": "https://www.instagram.com/reel/DfE25vXgeyL/",
       "reach": 5,
@@ -51,7 +51,7 @@
     "2026-10-30-feed": {
       "mediaId": "18100988177384159",
       "kind": "feed",
-      "fetchedAt": "2026-10-31T08:11:21.084Z",
+      "fetchedAt": "2026-10-31T13:46:12.153Z",
       "publishedAt": "2026-10-30T07:11:45.458Z",
       "permalink": "https://www.instagram.com/p/DfHBBhzlSEi/",
       "reach": 2,
@@ -73,7 +73,7 @@
     "2026-10-31-feed": {
       "mediaId": "18453622666130684",
       "kind": "feed",
-      "fetchedAt": "2026-10-31T08:11:21.361Z",
+      "fetchedAt": "2026-10-31T13:46:12.495Z",
       "publishedAt": "2026-10-31T07:11:46.394Z",
       "permalink": "https://www.instagram.com/p/DfJl0gcFTwe/",
       "reach": 0,
@@ -85,7 +85,7 @@
     "2026-10-31-story": {
       "mediaId": "18648118090024284",
       "kind": "story",
-      "fetchedAt": "2026-10-31T08:11:21.712Z",
+      "fetchedAt": "2026-10-31T13:46:12.913Z",
       "publishedAt": "2026-10-31T07:12:18.560Z",
       "permalink": null,
       "reach": 0,
@@ -94,7 +94,7 @@
     }
   },
   "username": "konkursnorge",
-  "updatedAt": "2026-10-31T08:11:21.712Z",
+  "updatedAt": "2026-10-31T13:46:12.913Z",
   "profile": {
     "name": "Konkurs-Norge",
     "bio": 121,
@@ -103,6 +103,6 @@
     "follows": 6,
     "followers": 5,
     "media": 3,
-    "checkedAt": "2026-10-31T08:11:20.210Z"
+    "checkedAt": "2026-10-31T13:46:10.606Z"
   }
 }
