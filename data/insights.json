@@ -7,13 +7,17 @@
     {
       "date": "2026-10-30",
       "count": 4
+    },
+    {
+      "date": "2026-10-31",
+      "count": 5
     }
   ],
   "media": {
     "2026-10-29-feed": {
       "mediaId": "18127739437915390",
       "kind": "feed",
-      "fetchedAt": "2026-10-30T14:25:58.572Z",
+      "fetchedAt": "2026-10-31T06:51:40.181Z",
       "publishedAt": "2026-10-29T11:04:10.251Z",
       "permalink": "https://www.instagram.com/p/DfE21a4kXX3/",
       "reach": 1,
@@ -35,10 +39,10 @@
     "2026-10-29-reel": {
       "mediaId": "17903079633378641",
       "kind": "reel",
-      "fetchedAt": "2026-10-30T14:25:58.967Z",
+      "fetchedAt": "2026-10-31T06:51:40.463Z",
       "publishedAt": "2026-10-29T11:05:10.210Z",
       "permalink": "https://www.instagram.com/reel/DfE25vXgeyL/",
-      "reach": 4,
+      "reach": 5,
       "likes": 0,
       "comments": 0,
       "saved": 0,
@@ -47,10 +51,10 @@
     "2026-10-30-feed": {
       "mediaId": "18100988177384159",
       "kind": "feed",
-      "fetchedAt": "2026-10-30T14:25:59.331Z",
+      "fetchedAt": "2026-10-31T06:51:40.723Z",
       "publishedAt": "2026-10-30T07:11:45.458Z",
       "permalink": "https://www.instagram.com/p/DfHBBhzlSEi/",
-      "reach": 0,
+      "reach": 2,
       "likes": 0,
       "comments": 0,
       "saved": 0,
@@ -59,7 +63,7 @@
     "2026-10-30-story": {
       "mediaId": "18079408805424396",
       "kind": "story",
-      "fetchedAt": "2026-10-30T14:25:59.734Z",
+      "fetchedAt": "2026-10-31T06:51:40.974Z",
       "publishedAt": "2026-10-30T07:12:06.471Z",
       "permalink": null,
       "reach": 0,
@@ -68,15 +72,15 @@
     }
   },
   "username": "konkursnorge",
-  "updatedAt": "2026-10-30T14:25:59.734Z",
+  "updatedAt": "2026-10-31T06:51:40.974Z",
   "profile": {
     "name": "Konkurs-Norge",
     "bio": 121,
     "picture": true,
     "website": false,
-    "follows": 0,
-    "followers": 4,
+    "follows": 6,
+    "followers": 5,
     "media": 2,
-    "checkedAt": "2026-10-30T14:25:58.245Z"
+    "checkedAt": "2026-10-31T06:51:39.836Z"
   }
 }
