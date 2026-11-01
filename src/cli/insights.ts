@@ -48,7 +48,10 @@ try {
   let readCount = 0;
   for (const [key, e] of Object.entries(readPublished())) {
     const age = Date.now() - Date.parse(e.publishedAt);
-    if (age > (e.kind === 'story' ? 24 * 3.6e6 : 30 * 864e5) || !e.mediaIds[0]) continue;
+    // Each read counts against the Meta app's shared rate limit: posts for 14 days, each at most every 6 hours.
+    if (age > (e.kind === 'story' ? 24 * 3.6e6 : 14 * 864e5) || !e.mediaIds[0]) continue;
+    const seen = insights.media[key]?.fetchedAt;
+    if (seen && Date.now() - Date.parse(seen) < 6 * 3.6e6) continue;
     try {
       const values = await ig.mediaInsights(e.mediaIds[0], e.kind);
       insights.media[key] = { mediaId: e.mediaIds[0], kind: e.kind, fetchedAt: new Date().toISOString(), publishedAt: e.publishedAt, permalink: e.permalink, ...values };
