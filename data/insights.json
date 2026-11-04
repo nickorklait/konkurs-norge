@@ -171,10 +171,44 @@
       "comments": 0,
       "saved": 0,
       "shares": 0
+    },
+    "2026-11-04-feed": {
+      "mediaId": "18115093775164205",
+      "kind": "feed",
+      "fetchedAt": "2026-11-04T07:13:07.290Z",
+      "publishedAt": "2026-11-04T07:11:43.759Z",
+      "permalink": "https://www.instagram.com/p/DfT5AL2GxQt/",
+      "reach": 0,
+      "likes": 0,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0
+    },
+    "2026-11-04-story": {
+      "mediaId": "18189188038367672",
+      "kind": "story",
+      "fetchedAt": "2026-11-04T07:13:07.679Z",
+      "publishedAt": "2026-11-04T07:11:57.036Z",
+      "permalink": null,
+      "reach": 0,
+      "replies": 0,
+      "shares": 0
+    },
+    "2026-11-04-reel": {
+      "mediaId": "17921502309242705",
+      "kind": "reel",
+      "fetchedAt": "2026-11-04T07:13:07.969Z",
+      "publishedAt": "2026-11-04T07:13:06.303Z",
+      "permalink": "https://www.instagram.com/reel/DfT5HFnjZVw/",
+      "reach": 0,
+      "likes": 0,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0
     }
   },
   "username": "konkursnorge",
-  "updatedAt": "2026-11-04T06:51:31.598Z",
+  "updatedAt": "2026-11-04T07:13:07.969Z",
   "profile": {
     "name": "Konkurs-Norge",
     "bio": 121,
@@ -182,7 +216,7 @@
     "website": false,
     "follows": 6,
     "followers": 6,
-    "media": 5,
-    "checkedAt": "2026-11-04T06:51:28.201Z"
+    "media": 6,
+    "checkedAt": "2026-11-04T07:13:06.998Z"
   }
 }
