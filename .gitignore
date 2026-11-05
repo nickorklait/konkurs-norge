@@ -1,3 +1,5 @@
 node_modules/
 output/
 .env
+# The refreshed Instagram token when run locally without TOKEN_ENCRYPTION_KEY (plain text; never commit).
+data/instagram-token.json
