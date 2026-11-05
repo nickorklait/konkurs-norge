@@ -23,13 +23,17 @@
     {
       "date": "2026-11-04",
       "count": 6
+    },
+    {
+      "date": "2026-11-05",
+      "count": 6
     }
   ],
   "media": {
     "2026-10-29-feed": {
       "mediaId": "18127739437915390",
       "kind": "feed",
-      "fetchedAt": "2026-11-04T15:38:38.417Z",
+      "fetchedAt": "2026-11-05T06:51:33.311Z",
       "publishedAt": "2026-10-29T11:04:10.251Z",
       "permalink": "https://www.instagram.com/p/DfE21a4kXX3/",
       "reach": 1,
@@ -51,7 +55,7 @@
     "2026-10-29-reel": {
       "mediaId": "17903079633378641",
       "kind": "reel",
-      "fetchedAt": "2026-11-04T15:38:38.705Z",
+      "fetchedAt": "2026-11-05T06:51:33.811Z",
       "publishedAt": "2026-10-29T11:05:10.210Z",
       "permalink": "https://www.instagram.com/reel/DfE25vXgeyL/",
       "reach": 5,
@@ -63,7 +67,7 @@
     "2026-10-30-feed": {
       "mediaId": "18100988177384159",
       "kind": "feed",
-      "fetchedAt": "2026-11-04T15:38:38.995Z",
+      "fetchedAt": "2026-11-05T06:51:34.168Z",
       "publishedAt": "2026-10-30T07:11:45.458Z",
       "permalink": "https://www.instagram.com/p/DfHBBhzlSEi/",
       "reach": 2,
@@ -85,10 +89,10 @@
     "2026-10-31-feed": {
       "mediaId": "18453622666130684",
       "kind": "feed",
-      "fetchedAt": "2026-11-04T15:38:39.224Z",
+      "fetchedAt": "2026-11-05T06:51:34.536Z",
       "publishedAt": "2026-10-31T07:11:46.394Z",
       "permalink": "https://www.instagram.com/p/DfJl0gcFTwe/",
-      "reach": 0,
+      "reach": 1,
       "likes": 0,
       "comments": 0,
       "saved": 0,
@@ -107,7 +111,7 @@
     "2026-11-02-feed": {
       "mediaId": "18133210228686512",
       "kind": "feed",
-      "fetchedAt": "2026-11-04T15:38:40.248Z",
+      "fetchedAt": "2026-11-05T06:51:34.829Z",
       "publishedAt": "2026-11-02T07:11:39.496Z",
       "permalink": "https://www.instagram.com/p/DfOvZ9hFlSm/",
       "reach": 0,
@@ -129,7 +133,7 @@
     "2026-11-02-reel": {
       "mediaId": "17874217314642589",
       "kind": "reel",
-      "fetchedAt": "2026-11-04T15:38:40.492Z",
+      "fetchedAt": "2026-11-05T06:51:35.360Z",
       "publishedAt": "2026-11-02T07:12:44.695Z",
       "permalink": "https://www.instagram.com/reel/DfOveAKCOLQ/",
       "reach": 11,
@@ -141,7 +145,7 @@
     "2026-11-03-feed": {
       "mediaId": "18485411350116096",
       "kind": "feed",
-      "fetchedAt": "2026-11-04T15:38:40.698Z",
+      "fetchedAt": "2026-11-05T06:51:35.637Z",
       "publishedAt": "2026-11-03T07:11:45.586Z",
       "permalink": "https://www.instagram.com/p/DfRUNX1loWy/",
       "reach": 0,
@@ -163,7 +167,7 @@
     "2026-11-03-reel": {
       "mediaId": "18125820439700306",
       "kind": "reel",
-      "fetchedAt": "2026-11-04T15:38:40.933Z",
+      "fetchedAt": "2026-11-05T06:51:35.882Z",
       "publishedAt": "2026-11-03T07:12:55.085Z",
       "permalink": "https://www.instagram.com/reel/DfRUR6amvYK/",
       "reach": 31,
@@ -175,7 +179,7 @@
     "2026-11-04-feed": {
       "mediaId": "18115093775164205",
       "kind": "feed",
-      "fetchedAt": "2026-11-04T15:38:41.177Z",
+      "fetchedAt": "2026-11-05T06:51:36.188Z",
       "publishedAt": "2026-11-04T07:11:43.759Z",
       "permalink": "https://www.instagram.com/p/DfT5AL2GxQt/",
       "reach": 1,
@@ -187,7 +191,7 @@
     "2026-11-04-story": {
       "mediaId": "18189188038367672",
       "kind": "story",
-      "fetchedAt": "2026-11-04T15:38:41.834Z",
+      "fetchedAt": "2026-11-05T06:51:36.644Z",
       "publishedAt": "2026-11-04T07:11:57.036Z",
       "permalink": null,
       "reach": 0,
@@ -197,10 +201,10 @@
     "2026-11-04-reel": {
       "mediaId": "17921502309242705",
       "kind": "reel",
-      "fetchedAt": "2026-11-04T15:38:42.082Z",
+      "fetchedAt": "2026-11-05T06:51:36.889Z",
       "publishedAt": "2026-11-04T07:13:06.303Z",
       "permalink": "https://www.instagram.com/reel/DfT5HFnjZVw/",
-      "reach": 67,
+      "reach": 80,
       "likes": 0,
       "comments": 0,
       "saved": 0,
@@ -208,7 +212,7 @@
     }
   },
   "username": "konkursnorge",
-  "updatedAt": "2026-11-04T15:38:42.082Z",
+  "updatedAt": "2026-11-05T06:51:36.889Z",
   "profile": {
     "name": "Konkurs-Norge",
     "bio": 121,
@@ -217,6 +221,6 @@
     "follows": 6,
     "followers": 6,
     "media": 6,
-    "checkedAt": "2026-11-04T15:38:38.104Z"
+    "checkedAt": "2026-11-05T06:51:32.940Z"
   }
 }
