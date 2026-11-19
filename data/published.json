@@ -435,5 +435,30 @@
       "18110620511575702"
     ],
     "permalink": "https://www.instagram.com/reel/Df38NnTOZZ5/"
+  },
+  "2026-11-19-feed": {
+    "publishedAt": "2026-11-19T07:11:47.094Z",
+    "kind": "feed",
+    "mediaIds": [
+      "17977865751166890"
+    ],
+    "permalink": "https://www.instagram.com/p/Df6g7h3HNg6/"
+  },
+  "2026-11-19-story": {
+    "publishedAt": "2026-11-19T07:12:03.818Z",
+    "kind": "story",
+    "mediaIds": [
+      "18040077902842064",
+      "18096031442271057"
+    ],
+    "permalink": null
+  },
+  "2026-11-19-reel": {
+    "publishedAt": "2026-11-19T07:12:53.216Z",
+    "kind": "reel",
+    "mediaIds": [
+      "18155058070540498"
+    ],
+    "permalink": "https://www.instagram.com/reel/Df6hBs6hxkI/"
   }
 }
